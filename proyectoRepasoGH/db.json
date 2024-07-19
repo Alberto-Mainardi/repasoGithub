@@ -1,16 +1,18 @@
 {
     "usuarios": [
         {
-          "id": "1",
-          "nombre": "Juan",
-          "apellido": "Rodriguez",
-          "admin": "false"
+            "id": "9e13",
+            "user": "luis",
+            "password": "12345",
+            "email": "luis@gmail.com",
+            "admin": false
         },
         {
-            "id": "2",
-            "nombre": "Raúl",
-            "apellido": "Martínez",
-            "admin": "true"
-          }
-      ]
+            "id": "627d",
+            "user": "juan",
+            "password": "12345",
+            "email": "juancito@gmail.com",
+            "admin": true
+        }
+    ]
 }
