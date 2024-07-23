@@ -10,7 +10,7 @@ import Contact from './views/Contact';
 import About from './views/About';
 import Login from './views/Login';
 import AdminRoutes from './routes/AdminRoutes';
-
+import Footer from './components/Footer';
 
 function App() {
 
@@ -42,9 +42,9 @@ console.log(user);
               </AdminRoutes>
               } />
           </Routes>
-        
       </BrowserRouter>
       <h1>REPASO DE GITHUB</h1>
+      <Footer/> 
     </ContextUser.Provider>
   )
 }
